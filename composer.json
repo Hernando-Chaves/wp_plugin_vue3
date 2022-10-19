@@ -1,0 +1,16 @@
+{
+    "name": "equipo/vue-w-test",
+    "description": "Plugin desarrollado para practicar la integración entre wordpress y vue js",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["classes"]
+    },
+    "authors": [
+        {
+            "name": "Hernando J Chaves"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
